@@ -1,0 +1,13 @@
+{"firstName": "John",
+"lastName": "Doe",
+"birthDate": "1990-01-01",
+"address": {
+  "street": "123 Main St",
+  "city": "Springfield",
+  "zipCode": 12345
+},
+"account": {
+  "id": "123456",
+  "balance": "100.00",
+  "isActive": true
+}}

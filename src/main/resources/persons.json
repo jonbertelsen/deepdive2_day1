@@ -1,0 +1,92 @@
+[
+    {
+        "firstName": "Alice",
+        "lastName": "Smith",
+        "birthDate": "1990-01-01",
+        "address": {
+        "street": "789 Main St",
+        "city": "Springfield",
+        "zipCode": 12345
+        },
+        "account": {
+        "id": "123456",
+        "balance": "300.00",
+        "isActive": true
+        }
+    },
+    {
+        "firstName": "Bob",
+        "lastName": "Smith",
+        "birthDate": "1995-01-01",
+        "address": {
+        "street": "101 Main St",
+        "city": "Springfield",
+        "zipCode": 12345
+        },
+        "account": {
+        "id": "654321",
+        "balance": "400.00",
+        "isActive": false
+        }
+    },
+    {
+        "firstName": "Charlie",
+        "lastName": "Brown",
+        "birthDate": "1990-01-01",
+        "address": {
+        "street": "121 Main St",
+        "city": "Springfield",
+        "zipCode": 12345
+        },
+        "account": {
+        "id": "123456",
+        "balance": "500.00",
+        "isActive": true
+        }
+    },
+    {
+        "firstName": "Daisy",
+        "lastName": "Brown",
+        "birthDate": "1995-01-01",
+        "address": {
+        "street": "141 Main St",
+        "city": "Springfield",
+        "zipCode": 12345
+        },
+        "account": {
+        "id": "654321",
+        "balance": "600.00",
+        "isActive": false
+        }
+    },
+    {
+        "firstName": "Eve",
+        "lastName": "Johnson",
+        "birthDate": "1990-01-01",
+        "address": {
+        "street": "161 Main St",
+        "city": "Springfield",
+        "zipCode": 12345
+        },
+        "account": {
+        "id": "123456",
+        "balance": "700.00",
+        "isActive": true
+        }
+    },
+    {
+        "firstName": "Frank",
+        "lastName": "Johnson",
+        "birthDate": "1995-01-01",
+        "address": {
+        "street": "181 Main St",
+        "city": "Springfield",
+        "zipCode": 12345
+        },
+        "account": {
+        "id": "654321",
+        "balance": "800.00",
+        "isActive": false
+        }
+    }
+]
